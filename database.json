@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "title": "Xbox 720",
+      "preco": 5000,
+      "id": 2
+    },
+    {
+      "title": "Action figure Goku Super Saiyajin 4",
+      "preco": 120,
+      "id": 1
+    },
+    {
+      "title": "Action figure Vegeta",
+      "preco": 8000,
+      "id": 3
+    },
+    {
+      "title": "Assinatura 1 mes Xilften",
+      "preco": 25,
+      "id": 4
+    }
+  ]
+}
